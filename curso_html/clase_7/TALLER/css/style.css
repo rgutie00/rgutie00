@@ -1,0 +1,25 @@
+/* prueba */
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:aqua;
+    /* color : #ff0000; */
+    color: rgb(66, 192, 62);
+    width: 100%;
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: rgb(255, 0, 34);
+}
+h1 {
+    font-family:cursive;
+    font-size: 3rem;
+    line-height: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    opacity: 0.5;
+}
